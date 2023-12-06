@@ -1,0 +1,72 @@
+{
+	"MENU": {
+		"WELCOME": "Bienvenido",
+		"PASSES": "Pases",
+		"SCHEDULE": "Cronograma",
+		"LODGING": "Hospedaje",
+		"JJ": "Galería",
+		"OUR_DREAMS": "Nuestros sueños",
+		"GIFT_TABLE": "Mesa de regalos",
+		"DRESS_CODE": "Código de vestimenta",
+		"SOCIAL_MEDIA": "Redes sociales",
+		"BUTTON_LANG": "English"
+	},
+	"COUNTDOWN": {
+		"LABEL": "Cuenta regresiva",
+		"DAYS": "Días",
+		"HOURS": "Horas",
+		"MINUTES": "Minutos",
+		"SECONDS": "Segundos"
+	},
+	"BUTTONS": {
+		"CLOSE": "Cerrar"
+	},
+	"WELCOME": {
+		"DATE": "03.Feb.24",
+		"OUR_WEDDING": "Nuestra Boda"
+	},
+	"PASSES": {
+		"WE_MARRIED": "¡Nos casamos!",
+		"NO_KIDS": "Por medidas de seguridad del lugar, te sugerimos no llevar niños, esperamos que esto no impida que contemos con tu presencia.",
+		"MESSAGE": "Hay momentos en la vida que son especiales por sí solos. Compartirlos con las personas que apreciamos, los convierte en mágicos e inolvidables."
+	},
+	"SCHEDULE": {
+		"LABEL": "Cronograma",
+		"RELIGIOUS_CEREMONY": "Ceremonia Religiosa",
+		"RECEPTION": "Recepción",
+		"BRIDE_AND_GROOM_ENTRANCE": "Entrada de los novios",
+		"FEAST": "Banquete",
+		"PARTY_STARTS": "¡Qué empiece la fiesta!",
+		"PARKING_OPTIONS": "Estacionamientos",
+		"IVAN": "Artista invitado",
+		"VALS": "Vals familiar y palabras de los novios",
+		"BANDA": "Grupo norteño"
+	},
+	"LODGING": {
+		"LABEL": "Hospedaje"
+	},
+	"GIFT_TABLE": {
+		"MESSAGE": "Nuestra hogar está completo, pero si deseas concedernos un obsequio ¡Suma kilómetros a nuestra luna de miel!",
+		"ENVELOPE_RAIN": {
+			"LABEL": "Lluvia de sobres",
+			"MESSAGE": "O si prefieres un obsequio en efectivo podrás hacerlo en nuestra mesa de lluvia de sobres que habrá en el evento."
+		},
+		"DIALOG": {
+			"LABEL": "¡Gracias!",
+			"BANK_INFO": "Aquí tienes las opciones para {{ value }}.",
+			"MESSAGE": "De corazón, gracias por tu contribución a nuestra luna de miel.",
+			"SNACK_BAR_MESSAGE": "Se copió la información a tu portapapeles"
+		}
+	},
+	"DRESS_CODE": {
+		"LABEL": "Etiqueta",
+		"MESSAGE": "Hay que llevar vestimenta de etiqueta: hombres corbata o moño, mujeres, vestido largo",
+		"SMOKING": "Traje con corbata o moño",
+		"LONG_DRESS": "Vestido largo"
+	},
+	"SOCIAL_MEDIA": {
+		"MESSAGE": "Ayúdanos a documentar nuestra boda! Sube tus fotos y videos y etiquétanos con el hashtag",
+		"HASHTAG": "#Ms&MrValencia",
+		"CLIPBOARD": "Se copió el hashtag a tu portapapeles"
+	}
+}
