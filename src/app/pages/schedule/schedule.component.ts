@@ -15,7 +15,7 @@ export class ScheduleComponent {
 	readonly scheduleList: ScheduleList = [
 		{
 			label: 'SCHEDULE.RELIGIOUS_CEREMONY',
-			time: '3:00 PM',
+			time: '1:00 PM',
 			delay: '',
 			maps: {
 				hasParkings: false,
@@ -33,7 +33,7 @@ export class ScheduleComponent {
 				hasParkings: true,
 				isChurch: false,
 				buildingName:
-					'Hacienda Santa Cecilia, Carboneras, Pachuca, Hidalgo',
+					'Salón VIP, Hacienda Santa Cecilia, Carboneras, Pachuca, Hidalgo',
 				image: 'assets/images/haciendaSantaCecilia.jpeg',
 			},
 		},
@@ -46,11 +46,6 @@ export class ScheduleComponent {
 			label: 'SCHEDULE.FEAST',
 			time: '5:10 PM',
 			delay: 'animate__delay-3s',
-		},
-		{
-			label: 'SCHEDULE.IVAN',
-			time: '7:00 PM',
-			delay: 'animate__delay-4s',
 		},
 		{
 			label: 'SCHEDULE.VALS',

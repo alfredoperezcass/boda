@@ -48,15 +48,6 @@
 			<figure>
 				<img [src]="schedule.maps.image" [alt]="schedule.maps.buildingName" />
 				<figcaption>{{ schedule.maps.buildingName }}</figcaption>
-				<button
-					*ngIf="schedule.maps.hasParkings"
-					(click)="onOpenParkingMapsDialog(true)"
-					class="parkings-button"
-					matRipple
-					[matRippleColor]="'rgb(0 0 0 / 16%)'"
-				>
-					{{ 'SCHEDULE.PARKING_OPTIONS' | translate }}
-				</button>
 			</figure>
 		</div>
 	</li>

@@ -4,11 +4,8 @@
 		"PASSES": "Passes",
 		"SCHEDULE": "Schedule",
 		"LODGING": "Lodging",
-		"JJ": "Gallery",
 		"OUR_DREAMS": "Our dreams",
-		"GIFT_TABLE": "Gift table",
 		"DRESS_CODE": "Dress code",
-		"SOCIAL_MEDIA": "Social media",
 		"BUTTON_LANG": "Español"
 	},
 	"COUNTDOWN": {
@@ -22,12 +19,13 @@
 		"CLOSE": "Close"
 	},
 	"WELCOME": {
-		"DATE": "Oct.07.23",
+		"DATE": "Feb.03.24",
 		"OUR_WEDDING": "Our wedding"
 	},
 	"PASSES": {
 		"WE_MARRIED": "We married!",
-		"NO_KIDS": "Due to security measures in place, we have decided that our event will be for adults only. We hope that this decision does not prevent us from having your presence."
+		"NO_KIDS": "Due to security measures in place, we suggest that do not bring children. We hope that this decision does not prevent us from having your presence.",
+		"MESSAGE": "There are moments in life that are special on their own. Sharing them with the people we cherish makes them magical and unforgettable."
 	},
 	"SCHEDULE": {
 		"LABEL": "Schedule",
@@ -37,7 +35,9 @@
 		"BRIDE_AND_GROOM_ENTRANCE": "Bride and Groom Entrance",
 		"FEAST": "Feast",
 		"PARTY_STARTS": "Party Starts",
-		"PARKING_OPTIONS": "Parking Options"
+		"PARKING_OPTIONS": "Parking Options",
+		"VALS": "Brindis",
+		"BANDA": "Grupo norteño"
 	},
 	"LODGING": {
 		"LABEL": "Lodging"
